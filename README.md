@@ -1,3 +1,9 @@
+sdk install springboot
+https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started-installing-spring-boot.html#getting-started-sdkman-cli-installation
+
+
+
+
 # SDKMAN! CLI
 ### The Software Development Kit Manager Command Line Interface
 
